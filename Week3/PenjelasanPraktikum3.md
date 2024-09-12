@@ -20,7 +20,7 @@ Masalah dalam Kode :
 - Increment: Pada bagian index, tidak ada operasi increment atau update pada index, sehingga loop akan menjadi infinite loop.
 - Case Sensitivity: Index dalam print(Index) seharusnya menggunakan huruf kecil index karena Dart bersifat case-sensitive.
 
-> Perbaikan kode yang benar(pada file praktikum2.dart di folder ini)
+> Perbaikan kode yang benar(pada file praktikum3.dart di folder ini)
 
 Penjelasan :
 
@@ -44,7 +44,7 @@ Kondisi else if: Kondisi index > 1 || index < 7 akan selalu benar dalam rentang 
 
 Untuk memastikan bahwa print(index) dijalankan sesuai harapan, kita perlu memperbaiki kondisi else if. Misalnya, jika kita ingin print(index) dijalankan hanya ketika index berada dalam rentang tertentu, kita perlu memperbaiki kondisinya.
 
-> Perbaikan kode yang benar(pada file praktikum2.dart di folder ini)
+> Perbaikan kode yang benar(pada file praktikum3.dart di folder ini)
 
 Penjelasan Perbaikan :
 
